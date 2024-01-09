@@ -1,6 +1,8 @@
 # Music Dash
 A simple *GAME* for **ANDROID** created in **JAVA**
 
+### --> [Download Now](https://github.com/Anmol1032/MusicDash/releases/download/v1.0-release/MusicDash-v1.0-release.apk) <--
+
 ## Game Rules
 - Just click on circle.
 - Hint is given when the cicle is comming 100-1000ms earlier, depending on level.
